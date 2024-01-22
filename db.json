@@ -5,14 +5,14 @@
             "artist": "Sauti sol",
             "img": "music-1.jpeg",
             "src": "music-1",
-            "comments": ""
+            "comments": []
         },
         {
             "name": "Brighter Days",
             "artist": "Sauti sol",
             "img": "music-2.jpg",
             "src": "music-2",
-            "comments": ""
+            "comments": []
             
         },
         {
@@ -20,56 +20,56 @@
             "artist": "Sauti sol",
             "img": "music-3.jpeg",
             "src": "music-3",
-            "comments": ""
+            "comments": []
         },
         {
             "name": "My Everything",
             "artist": "Sauti sol",
             "img": "music-4.jpg",
             "src": "music-4",
-            "comments": ""
+            "comments": []
         },
         {
             "name": "Wake Up",
             "artist": "Sauti sol",
             "img": "music-5.jpg",
             "src": "music-5",
-            "comments": ""
+            "comments": []
         },
         {
             "name": "Insecure",
             "artist": "Sauti sol",
             "img": "music-6.jpeg",
             "src": "music-6",
-            "comments": ""
+            "comments": []
         },
         {
             "name": "Lil Mama",
             "artist": "Sauti sol",
             "img": "music-7.jpg",
             "src": "music-7",
-            "comments": ""
+            "comments": []
         },
         {
             "name": "Midnight train",
             "artist": "Sauti sol",
             "img": "music-8.jpeg",
             "src": "music-8",
-            "comments": ""
+            "comments": []
         },
         {
             "name": "Rewind",
             "artist": "Sauti sol",
             "img": "music-9.jpg",
             "src": "music-9",
-            "comments": ""
+            "comments": []
         },
         {
             "name": "Rumba Japani",
             "artist": "Sauti sol",
             "img": "music-10.jpg",
             "src": "music-10",
-            "comments": ""
+            "comments": []
         }
     ]
 }
