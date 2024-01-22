@@ -5,16 +5,15 @@
             "artist": "Sauti sol",
             "img": "music-1.jpeg",
             "src": "music-1",
-            "comments": ["Can't stop listening to this", "too long!!"],
-            "id": 1
+            "comments": []
+            
         },
         {
             "name": "Brighter Days",
             "artist": "Sauti sol",
             "img": "music-2.jpg",
             "src": "music-2",
-            "comments": ["Yall can do better", " we will miss you sauti sol"],
-            "id": 2
+            "comments": []
             
         },
         {
@@ -22,64 +21,56 @@
             "artist": "Sauti sol",
             "img": "music-3.jpeg",
             "src": "music-3",
-            "comments": ["such a vibe"],
-            "id": 3
+            "comments": []
         },
         {
             "name": "My Everything",
             "artist": "Sauti sol",
             "img": "music-4.jpg",
             "src": "music-4",
-            "comments": ["Yesss", "on repeat", "my everythinggg"],
-            "id": 4
+            "comments": []
         },
         {
             "name": "Wake Up",
             "artist": "Sauti sol",
             "img": "music-5.jpg",
             "src": "music-5",
-            "comments": ["sauti sol my ride or die", "love the song guys"],
-            "id": 5
+            "comments": []
         },
         {
             "name": "Insecure",
             "artist": "Sauti sol",
             "img": "music-6.jpeg",
             "src": "music-6",
-            "comments": ["medicine", "love love love this song"],
-            "id": 6
+            "comments": []
         },
         {
             "name": "Lil Mama",
             "artist": "Sauti sol",
             "img": "music-7.jpg",
             "src": "music-7",
-            "comments": ["lil mamaa"],
-            "id": 7
+            "comments": []
         },
         {
             "name": "Midnight train",
             "artist": "Sauti sol",
             "img": "music-8.jpeg",
             "src": "music-8",
-            "comments": ["yeyy", "party after party"],
-            "id": 8
+            "comments": []
         },
         {
             "name": "Rewind",
             "artist": "Sauti sol",
             "img": "music-9.jpg",
             "src": "music-9",
-            "comments": ["whose going for the concert", "omg, love this song"],
-            "id": 9
+            "comments": []
         },
         {
             "name": "Rumba Japani",
             "artist": "Sauti sol",
             "img": "music-10.jpg",
             "src": "music-10",
-            "comments": ["drug", "ride or die"],
-            "id": 10
+            "comments": []
         }
     ]
 }
