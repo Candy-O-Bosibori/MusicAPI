@@ -5,14 +5,16 @@
             "artist": "Sauti sol",
             "img": "music-1.jpeg",
             "src": "music-1",
-            "comments": []
+            "comments": [],
+            "id": 1
         },
         {
             "name": "Brighter Days",
             "artist": "Sauti sol",
             "img": "music-2.jpg",
             "src": "music-2",
-            "comments": []
+            "comments": [],
+            "id": 2
             
         },
         {
@@ -20,56 +22,64 @@
             "artist": "Sauti sol",
             "img": "music-3.jpeg",
             "src": "music-3",
-            "comments": []
+            "comments": [],
+            "id": 3
         },
         {
             "name": "My Everything",
             "artist": "Sauti sol",
             "img": "music-4.jpg",
             "src": "music-4",
-            "comments": []
+            "comments": [],
+            "id": 4
         },
         {
             "name": "Wake Up",
             "artist": "Sauti sol",
             "img": "music-5.jpg",
             "src": "music-5",
-            "comments": []
+            "comments": [],
+            "id": 5
         },
         {
             "name": "Insecure",
             "artist": "Sauti sol",
             "img": "music-6.jpeg",
             "src": "music-6",
-            "comments": []
+            "comments": [],
+            "id": 6
         },
         {
             "name": "Lil Mama",
             "artist": "Sauti sol",
             "img": "music-7.jpg",
             "src": "music-7",
-            "comments": []
+            "comments": [],
+            "id": 7
         },
         {
             "name": "Midnight train",
             "artist": "Sauti sol",
             "img": "music-8.jpeg",
             "src": "music-8",
-            "comments": []
+            "comments": [],
+            "id": 8
         },
         {
             "name": "Rewind",
             "artist": "Sauti sol",
             "img": "music-9.jpg",
             "src": "music-9",
-            "comments": []
+            "comments": [],
+            "id": 9
         },
         {
             "name": "Rumba Japani",
             "artist": "Sauti sol",
             "img": "music-10.jpg",
             "src": "music-10",
-            "comments": []
+            "comments": [],
+            "id": 10
         }
     ]
 }
