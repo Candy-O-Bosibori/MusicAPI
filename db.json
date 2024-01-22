@@ -5,7 +5,7 @@
             "artist": "Sauti sol",
             "img": "music-1.jpeg",
             "src": "music-1",
-            "comments": [],
+            "comments": ["Can't stop listening to this", "too long!!"],
             "id": 1
         },
         {
@@ -13,7 +13,7 @@
             "artist": "Sauti sol",
             "img": "music-2.jpg",
             "src": "music-2",
-            "comments": [],
+            "comments": ["Yall can do better", " we will miss you sauti sol"],
             "id": 2
             
         },
@@ -22,7 +22,7 @@
             "artist": "Sauti sol",
             "img": "music-3.jpeg",
             "src": "music-3",
-            "comments": [],
+            "comments": ["such a vibe"],
             "id": 3
         },
         {
@@ -30,7 +30,7 @@
             "artist": "Sauti sol",
             "img": "music-4.jpg",
             "src": "music-4",
-            "comments": [],
+            "comments": ["Yesss", "on repeat"],
             "id": 4
         },
         {
@@ -38,7 +38,7 @@
             "artist": "Sauti sol",
             "img": "music-5.jpg",
             "src": "music-5",
-            "comments": [],
+            "comments": ["sauti sol my ride or die", "love the song guys"],
             "id": 5
         },
         {
@@ -46,7 +46,7 @@
             "artist": "Sauti sol",
             "img": "music-6.jpeg",
             "src": "music-6",
-            "comments": [],
+            "comments": ["medicine", "love love love this song"],
             "id": 6
         },
         {
@@ -54,7 +54,7 @@
             "artist": "Sauti sol",
             "img": "music-7.jpg",
             "src": "music-7",
-            "comments": [],
+            "comments": ["lil mamaa"],
             "id": 7
         },
         {
@@ -62,7 +62,7 @@
             "artist": "Sauti sol",
             "img": "music-8.jpeg",
             "src": "music-8",
-            "comments": [],
+            "comments": ["yeyy", "party after party"],
             "id": 8
         },
         {
@@ -70,7 +70,7 @@
             "artist": "Sauti sol",
             "img": "music-9.jpg",
             "src": "music-9",
-            "comments": [],
+            "comments": ["whose going for the concert", "omg, love this song"],
             "id": 9
         },
         {
@@ -78,7 +78,7 @@
             "artist": "Sauti sol",
             "img": "music-10.jpg",
             "src": "music-10",
-            "comments": [],
+            "comments": ["drug", "ride or die"],
             "id": 10
         }
     ]
